@@ -1,0 +1,29 @@
+{
+  "name": "tutorial-graphql-apirocket",
+  "version": "1.0.0",
+  "description": "The tool used by the world's laziest web developers to create their GraphQL API",
+  "main": "./src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node .",
+    "lint": "eslint"
+  },
+  "dependencies": {
+    "dotenv": "^8.2.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.17.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.22.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoseJPR/tutorial-graphql-apirocket.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoseJPR/tutorial-graphql-apirocket/issues"
+  },
+  "homepage": "https://github.com/JoseJPR/tutorial-graphql-apirocket#readme"
+}
