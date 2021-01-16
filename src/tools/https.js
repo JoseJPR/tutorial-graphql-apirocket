@@ -26,7 +26,6 @@ const Https = {
 
       const req = https.request({
         hostname,
-        port: 443,
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
