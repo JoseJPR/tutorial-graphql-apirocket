@@ -1,5 +1,4 @@
 // Import main dependencies.
-import { promises } from 'fs';
 import https from 'https';
 
 // Import configuration.
